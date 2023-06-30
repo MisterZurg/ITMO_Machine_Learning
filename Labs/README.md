@@ -1,10 +1,10 @@
 # Labs
 ## Syllabus
-1. [Lab 1 — Supervised learning algorithms](#lab-1-—-supervised-learning-algorithms)
-2. [Lab 2 — NLP](#lab-2-—-nlp)
-3. [Lab 3 — Optimization algorithms implementation](#lab-3-—-optimization-algorithms-implementation)
-4. [Lab 4 — Backpropagation](#lab-4-—-backpropagation)
-5. [Lab 5 —  CNN & Transfer Learning](#lab-5-—-cnn-&-transfer-learning)
+1. [Lab 1 — Supervised learning algorithms](#lab-1--supervised-learning-algorithms)
+2. [Lab 2 — NLP](#lab-2--nlp)
+3. [Lab 3 — Optimization algorithms implementation](#lab-3--optimization-algorithms-implementation)
+4. [Lab 4 — Backpropagation](#lab-4--backpropagation)
+5. [Lab 5 —  CNN & Transfer Learning](#lab-5--cnn-&-transfer-learning)
 
 
 ## Lab 1 — Supervised learning algorithms
